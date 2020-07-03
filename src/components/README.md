@@ -2,7 +2,7 @@
 
 React Taggables Input adds a simple comma separated tags in the input. This version can add and remove the tags. It provides the validation for each tag.
 
-![Screenshot](https://github.com/badgujar-nagesh/react-taggables-input/raw/master/tag-screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/badgujar-nagesh/react-taggables-input/master/tag-screnshot.png)
 
 ## Installation
 
