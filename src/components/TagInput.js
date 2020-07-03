@@ -78,8 +78,8 @@ TagInput.defaultProps = {
 };
 TagInput.propTypes = {
     placeholder: PropTypes.string,
-    validate: PropTypes.number,
     value: PropTypes.array,
-    onChange: PropTypes.func.isRequired
+    onChange: PropTypes.func.isRequired,
+    onEnter: PropTypes.func
 };
 export default TagInput;
